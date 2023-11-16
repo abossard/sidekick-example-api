@@ -9,7 +9,7 @@
     </PropertyGroup>
 
     <ItemGroup>
-        <PackageReference Include="Dapr.Workflow" Version="1.12.0"/>
+        <PackageReference Include="Dapr.Actors.AspNetCore" Version="1.12.0" />
         <PackageReference Include="Man.Dapr.Sidekick.AspNetCore" Version="1.2.2"/>
         <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="8.0.0-rc.1.23421.29"/>
         <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0"/>
